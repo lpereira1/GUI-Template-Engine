@@ -1,0 +1,23 @@
+somthing
+something
+something
+!
+!
+hostname ##{HOST_NAME}
+!
+!
+!
+!
+!
+!
+rd ##{RD}
+!
+!
+!
+interface Loopback0
+ip address ##{L0_IP}
+!
+!
+end
+
+
